@@ -15,4 +15,3 @@ int main () {
     // Toda função tem um retorno (return). Como a função tem que retornar um interiro (int), eu afirmo que estou retornando um 0.
     return 0;
 }
-
