@@ -15,4 +15,3 @@ raiz-do-projeto/
 ├── LICENSE
 └── README.md
 ```
-
